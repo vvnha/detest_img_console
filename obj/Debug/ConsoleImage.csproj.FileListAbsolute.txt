@@ -1,0 +1,17 @@
+D:\Visual Project\ConsoleImage\bin\Debug\ConsoleImage.exe.config
+D:\Visual Project\ConsoleImage\bin\Debug\ConsoleImage.exe
+D:\Visual Project\ConsoleImage\bin\Debug\ConsoleImage.pdb
+D:\Visual Project\ConsoleImage\obj\Debug\ConsoleImage.csprojResolveAssemblyReference.cache
+D:\Visual Project\ConsoleImage\obj\Debug\ConsoleImage.exe
+D:\Visual Project\ConsoleImage\obj\Debug\ConsoleImage.pdb
+D:\Visual Project\ConsoleImage\bin\Debug\x64\opencv_world340.dll
+D:\Visual Project\ConsoleImage\bin\Debug\x64\yolo_cpp_dll_cpu.dll
+D:\Visual Project\ConsoleImage\bin\Debug\x64\yolo_cpp_dll_gpu.dll
+D:\Visual Project\ConsoleImage\bin\Debug\x64\pthreadVC2.dll
+D:\Visual Project\ConsoleImage\bin\Debug\x64\pthreadGC2.dll
+D:\Visual Project\ConsoleImage\bin\Debug\x64\msvcr100.dll
+D:\Visual Project\ConsoleImage\bin\Debug\yolov2-tiny-voc.cfg
+D:\Visual Project\ConsoleImage\bin\Debug\yolov2-tiny-voc.weights
+D:\Visual Project\ConsoleImage\bin\Debug\voc.names
+D:\Visual Project\ConsoleImage\bin\Debug\Alturos.Yolo.dll
+D:\Visual Project\ConsoleImage\bin\Debug\Alturos.Yolo.xml
